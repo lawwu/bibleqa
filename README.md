@@ -1,5 +1,9 @@
 # Bible QA
 
+Ask a question about the Bible and get an answer.
+
+This uses ColBERT embeddings to retrieve relevant passages from the Bible (ESV) and then uses OpenAI's `gpt-3.5-turbo-0125` to answer the question.
+
 # Setup
 
 ```bash
