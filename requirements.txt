@@ -1,0 +1,7 @@
+pre-commit
+pandas
+RAGatouille
+langchain
+langchain-openai
+python-dotenv
+streamlit
